@@ -335,7 +335,7 @@ public class CalculadoraJan extends JFrame {
 	private JLabel visor = new JLabel("0");
 
 	public CalculadoraJan() {
-		super("ATHOS - CALCULADORA");
+		super("BIT - CALCULADORA");
 		setIconImage(Imagem.getLogoTipoImage());
 		setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);
 		addWindowListener(janelaContr);
